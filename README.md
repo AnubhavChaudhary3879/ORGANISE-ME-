@@ -1,4 +1,4 @@
-# TodoApp
+# ORGANISE ME
 TodoApp is a simple multi-user task management application for tracking personal to-do's within specific to-do lists. 
 
 
